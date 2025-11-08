@@ -2,13 +2,12 @@
 
 ###
 
-<!-- ![CodeOnSaturday's Stats](https://github-readme-stats.vercel.app/api?username=codestrdy&theme=react&show_icons=true&hide_border=true&count_private=true) -->
-![CodeOnSaturday's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codestrdy&theme=react&show_icons=true&hide_border=true)
+![CodeOnSaturday's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thing-code&theme=react&show_icons=true&hide_border=true)
 
 ###
 
 <h2 align="left" style="color:white;" >🚀 About Me</h2>
-<p align="left">My name is Fahmi, and I work as a Flutter developer. Currently, I'm working at a tech company, and i have a strong passion for Dart/Flutter. I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio.</p>
+<p align="left">My name is Fahmi, and I work as a Flutter developer. Currently, I'm working at a tech company, and I have a strong passion for Dart/Flutter. I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio.</p>
 
 ###
 
