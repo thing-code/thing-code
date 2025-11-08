@@ -26,8 +26,8 @@
 
 <h2 align="left" style="color:white;" >🌐 My socials</h2>
 
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codeonsaturday.web.app)
-[![linkedin](https://img.shields.io/badge/linkedin-2541B2?style=for-the-badge&logo=linkedin)](https://x.com/codestrdy)
-[![x](https://img.shields.io/badge/twitter-111111?style=for-the-badge&logo=x)](https://x.com/codestrdy)
-[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@codeonsaturday)
-[![instagram](https://img.shields.io/badge/instagram-33ADF2?style=for-the-badge&logo=instagram)](https://x.com/codestrdy)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thing-code.vercel.app)
+[![linkedin](https://img.shields.io/badge/linkedin-2541B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahmiia)
+[![x](https://img.shields.io/badge/twitter-111111?style=for-the-badge&logo=x)](https://x.com/thing_code)
+[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@thing-code)
+[![instagram](https://img.shields.io/badge/instagram-33ADF2?style=for-the-badge&logo=instagram)](https://x.com/thing.code)
