@@ -2,8 +2,6 @@
 
 ###
 
-![CodeOnSaturday's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thing-code&theme=react&show_icons=true&hide_border=true)
-
 ###
 
 <h2 align="left" style="color:white;" >🚀 About Me</h2>
